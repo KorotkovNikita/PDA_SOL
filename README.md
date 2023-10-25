@@ -4,4 +4,4 @@
 
 [`Самостоятельная работа 1`].(https://github.com/KorotkovNikita/PDA_SOL/blob/main/%D0%A1%D0%A01.ipynb).
 
-[`Самостоятельная работа 2`].(https://colab.research.google.com/drive/1iUuOVR0LDRUV6tGnMpn_qSchP7jFGNjc).
+[`Самостоятельная работа 2`].(https://github.com/KorotkovNikita/PDA_SOL/blob/main/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F_%D0%B1%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82%D0%B0_%22C%D0%A02_ipynb%22.ipynb).
